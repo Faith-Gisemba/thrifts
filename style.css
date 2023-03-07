@@ -5,7 +5,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
-    background-color: peachpuff;
+    background-color: whitesmoke;
 }
 .content{
     height: 100vh;
@@ -51,7 +51,7 @@ button{
     margin-left: 200px;
     font-size: 55px;
     font-weight: 700;
-    color: peachpuff;
+    color: whitesmoke;
     font-style: italic;
 }
 .mit{
@@ -213,17 +213,17 @@ button{
 }
 .loc{
     margin-left: 35%;
-    margin-top: -12%;
-    font-size: 30px;
+    margin-top: -6%;
+    font-size: 20px;
     
 }
 .con{
     margin-left: 69%;
-    margin-top: -7%;
-    font-size: 30px;
+    margin-top: -2%;
+    font-size: 20px;
 }
 .ab{
-    font-size: 30px;
+    font-size: 20px;
 }
 .ser{
     margin-left: 77%;
@@ -233,6 +233,7 @@ button{
 .car{
     margin-left: 74%;
     margin-top: -2.5%;
+    color: black;
 
 }
 
