@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+body{
+    background-color: peachpuff;
+}
 .content{
     height: 100vh;
     width: 100%;
@@ -48,7 +51,7 @@ button{
     margin-left: 200px;
     font-size: 55px;
     font-weight: 700;
-    color: whitesmoke;
+    color: peachpuff;
     font-style: italic;
 }
 .mit{
@@ -203,18 +206,33 @@ button{
 }
 .close{
     margin-top: 20%;
-    background-color: black;
+    background-color: rgb(10, 8, 8);
     color: white;
     
     
 }
 .loc{
-    margin-left: 25%;
-    margin-top: -6%;
+    margin-left: 35%;
+    margin-top: -12%;
+    font-size: 30px;
     
 }
 .con{
-    margin-left: 50%;
-    margin-top: -5%;
+    margin-left: 69%;
+    margin-top: -7%;
+    font-size: 30px;
+}
+.ab{
+    font-size: 30px;
+}
+.ser{
+    margin-left: 77%;
+    margin-top: -2%;
+
+}
+.car{
+    margin-left: 74%;
+    margin-top: -2.5%;
+
 }
 
